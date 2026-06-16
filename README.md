@@ -8,6 +8,8 @@ probability of default modelling, credit
 scorecard construction, and Basel III stress
 testing.
 
+![PD Model CAP Curve](visuals/chart14_cap_gini_curve.png)
+
 ## The business problem
 
 Banks need to know in advance which borrowers
